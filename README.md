@@ -1,2 +1,2 @@
-# Streamlit--Intorduction
+# Streamlit--Introduction
 A basic Introduction of Streamlit features
