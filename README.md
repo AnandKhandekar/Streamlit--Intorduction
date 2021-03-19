@@ -10,5 +10,5 @@ streamlit hello
 Now, make an app in 3 simple steps :
 * Open a new Python file, import Streamlit, and write some code
 * Run the file with
-``` streamlit run [filename.py]
-* when you are ready, click 'Depply' from the streamlit menu to share the app with the world !
+``` streamlit run [filename.py] ```
+* when you are ready, click 'Deploy' from the streamlit menu to share the app with the world !
