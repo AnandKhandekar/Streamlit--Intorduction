@@ -12,3 +12,5 @@ Now, make an app in 3 simple steps :
 * Run the file with
 ``` streamlit run [filename.py] ```
 * when you are ready, click 'Deploy' from the streamlit menu to share the app with the world !
+
+Refer to [this link](https://github.com/AnandKhandekar/Streamlit--Introduction/blob/main/getting_started.md) for getting started tutorial
